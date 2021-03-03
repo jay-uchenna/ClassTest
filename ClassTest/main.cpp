@@ -6,8 +6,9 @@
 //
 
 #include <iostream>
-#include "dosage_check.hpp"
+#include "dosage_check.hh"
 
+//#include "dosage_check.cpp"
 
 
 void display(const dosage_check* );
@@ -18,7 +19,7 @@ int main() {
     
     display(&person1);
     
-    for (int i=0; i < 9; i++){
+    for (int i=0; i < 5; i++){
     person1.no_remaining();
     person2.no_remaining();
     person3.no_remaining();

@@ -27,7 +27,7 @@
 		1979424F25E93BF000B35074 /* ClassTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ClassTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1979425225E93BF000B35074 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		197CC16325EAD1D3003BB496 /* dosage_check.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dosage_check.cpp; sourceTree = "<group>"; };
-		197CC16425EAD1D3003BB496 /* dosage_check.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = dosage_check.hpp; sourceTree = "<group>"; };
+		197CC16425EAD1D3003BB496 /* dosage_check.hh */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = dosage_check.hh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 			children = (
 				1979425225E93BF000B35074 /* main.cpp */,
 				197CC16325EAD1D3003BB496 /* dosage_check.cpp */,
-				197CC16425EAD1D3003BB496 /* dosage_check.hpp */,
+				197CC16425EAD1D3003BB496 /* dosage_check.hh */,
 			);
 			path = ClassTest;
 			sourceTree = "<group>";
